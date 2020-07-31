@@ -1,8 +1,5 @@
 name: "smallvec"
-description:
-    "'Small vector' optimization: store up to a small number of items on the "
-    "stack"
-
+description: "\'Small vector\' optimization: store up to a small number of items on the stack"
 third_party {
   url {
     type: HOMEPAGE
@@ -12,7 +9,11 @@ third_party {
     type: GIT
     value: "https://github.com/servo/rust-smallvec"
   }
-  version: "1.4.0"
-  last_upgrade_date { year: 2020 month: 6 day: 11 }
+  version: "1.4.1"
   license_type: NOTICE
+  last_upgrade_date {
+    year: 2020
+    month: 7
+    day: 30
+  }
 }
