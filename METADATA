@@ -7,7 +7,7 @@ third_party {
   }
   url {
     type: ARCHIVE
-    value: "https://static.crates.io/crates/smallvec/smallvec-1.4.1.crate"
+    value: "https://static.crates.io/crates/smallvec/smallvec-1.4.2.crate"
   }
   version: "1.4.2"
   license_type: NOTICE
