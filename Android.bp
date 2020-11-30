@@ -4,6 +4,6 @@ rust_library {
     name: "libsmallvec",
     host_supported: true,
     crate_name: "smallvec",
-    srcs: ["lib.rs"],
+    srcs: ["src/lib.rs"],
     edition: "2018",
 }
