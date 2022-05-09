@@ -5,6 +5,9 @@
       "path": "external/rust/crates/parking_lot_core"
     },
     {
+      "path": "external/rust/crates/tinyvec"
+    },
+    {
       "path": "external/rust/crates/vulkano"
     }
   ],
