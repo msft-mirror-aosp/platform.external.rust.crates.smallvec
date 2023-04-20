@@ -2,6 +2,7 @@
   "apex-available": [
     "//apex_available:platform",
     "com.android.btservices",
+    "com.android.resolv",
     "com.android.virt"
   ],
   "dependencies": true,
